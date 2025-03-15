@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1741729716 source:c:\users\gerson.lucas_unesp\desktop\nova pasta\stringwork\main.c
+	"TADString.h"
+
+1741729640 c:\users\gerson.lucas_unesp\desktop\nova pasta\stringwork\tadstring.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1741729925 source:c:\users\gerson.lucas_unesp\desktop\nova pasta\stringwork\tadstring.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1741749610 source:c:\users\daza_\desktop\trabalhostring\stringwork\main.c
+	"TADString.h"
+
+1741749303 c:\users\daza_\desktop\trabalhostring\stringwork\tadstring.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1741749639 source:c:\users\daza_\desktop\trabalhostring\stringwork\tadstring.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
